@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_producer/data_producer.iml" filepath="$PROJECT_DIR$/data_producer/data_producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-collector-web/log-collector-web.iml" filepath="$PROJECT_DIR$/log-collector-web/log-collector-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonetime.iml" filepath="$PROJECT_DIR$/phonetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-streaming/spark-streaming.iml" filepath="$PROJECT_DIR$/spark-streaming/spark-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taildirsource/taildirsource.iml" filepath="$PROJECT_DIR$/taildirsource/taildirsource.iml" />
+    </modules>
+  </component>
+</project>
