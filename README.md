@@ -45,3 +45,4 @@
 ##create 'behavior_user_day_time_201712','timeLen'
 ##create 'behavior_user_hour_app_time_201712','timeLen'
 ##create 'behavior_user_hour_time_201712','timeLen'
+##alter 'behavior_user_app_201712', NAME => 'info', VERSIONS => 2
