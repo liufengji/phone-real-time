@@ -36,3 +36,12 @@
 ## kafka 创建topic bin/kafka-topics.sh --create --zookeeper hadoop102:2181,hadoop103:2181,hadoop104:2181 --replication-factor 3 --partitions 3 --topic t-behavior
 ## kafka 查看topic bin/kafka-topics.sh --zookeeper hadoop102:2181,hadoop103:2181,hadoop103:2181 --list
 ## kafka 控制台消费topic bin/kafka-console-consumer.sh --zookeeper hadoop102:2181,hadoop103:2181,hadoop104:2181 --from-beginning --topic t-behavior
+
+
+#hbase
+##bin/hbase shell
+##create 'behavior_user_app_201712','timeLen'
+##create 'behavior_user_day_app_time_201712','timeLen'
+##create 'behavior_user_day_time_201712','timeLen'
+##create 'behavior_user_hour_app_time_201712','timeLen'
+##create 'behavior_user_hour_time_201712','timeLen'
